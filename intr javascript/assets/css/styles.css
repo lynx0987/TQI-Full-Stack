@@ -1,0 +1,39 @@
+body{
+	margin-top: 200px;
+	background-color: darkorange;
+	color:black;
+
+}
+
+.titulo {
+	text-align:center;
+	font-size: 50px;
+	font-family: Elephant;
+}
+
+.paragrafo{
+	text-align:center;
+	font-size:22px;
+	font-family:Arial;
+	font-weight:bold;
+}
+
+.divButton{
+	text-align:center;
+}
+.menos{
+	font-size:20px;
+	border-radius: 50%;
+	background-color:white;
+	border:none;
+	width: 23px;
+}
+.mais{
+	font-size:20px;
+	border-radius:50%;
+	background-color:white;
+	border:none;	
+}
+#currentnumber{
+	font-size:25px;
+}

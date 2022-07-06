@@ -1,0 +1,39 @@
+﻿body {
+    background: #808080;
+    font-family: Verdana;
+    margin: auto;
+    text-align: center;
+    max-width: 900px;
+}
+a{
+    color: darkblue;
+}
+#title, .subtitle, .post_title {
+    color: #000000;
+}
+.subtitle{
+    font-weight: bold;
+}
+.post_title{
+    font-size: 18px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.post{
+    background: #FFF;
+    padding: 10px;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.contato{
+    font-size: 18px;
+    list-style-type: none;
+    padding-left: 10px;
+}
+.contato li a {
+    color:black;
+}
